@@ -1,3 +1,5 @@
+OBS: Para que o código funcione, tem que estar com a pasta node_modules instalada
+
 # Os comandos para iniciar o Projeto
 
 vue create painel-admin
